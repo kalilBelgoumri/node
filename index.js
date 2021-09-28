@@ -1,0 +1,1 @@
+const userInfo = require('./information');
